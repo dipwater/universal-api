@@ -4,6 +4,9 @@
   "version": "1.0.1",
   "license": "BSD-3-Clause",
   "main": "lib/index.js",
+  "quickappConfig": {
+    "main": "lib/quickapp/index"
+  },
   "types": "lib/index.d.ts",
   "scripts": {
     "start": "rax-scripts start",
